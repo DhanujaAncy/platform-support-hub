@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+functions/*/node_modules/
+
+# Catalyst auth (NEVER commit this)
+.catalystrc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Build artifacts
+client/static/
+client/asset-manifest.json
+client/manifest.json
+client/robots.txt
+client/precache-manifest.*.js
+client/service-worker.js
+
+# Temp
+*.log

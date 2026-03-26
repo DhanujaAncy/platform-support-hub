@@ -1,0 +1,9 @@
+{
+	"name": "support_hub_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "dhanuja.d@zohointern.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

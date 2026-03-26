@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "support_hub_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
